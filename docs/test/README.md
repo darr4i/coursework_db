@@ -4,50 +4,50 @@
 
 ## Відображення всіх сутностей (GET запит)
 ### Запит і результат
-![screen_1](./images/screen_1.png)
+![screen_1](./images/screen_1.jpg)
 
 
 ## Cпроба додати сутність не передавши всі необхідні дані
 ### Запит і результат
-![screen_2](./images/screen_2.png)
+![screen_2](./images/screen_2.jpg)
 
 
 ## Додавання сутності (POST запит)
 ### Запит
-![screen_3](./images/screen_3.png)
+![screen_3](./images/screen_3.jpg)
 
 ### Результат
-![screen_4](./images/screen_4.png)
+![screen_4](./images/screen_4.jpg)
 
 
 ## Спроба додавання сутності з email, що вже існує
 ### Запит і результат
-![screen_5](./images/screen_5.png)
+![screen_5](./images/screen_5.jpg)
 
 
 ## Отримання певної сутності по id (GET запит)
 ### Запит і результат
-![screen_6](./images/screen_6.png)
+![screen_6](./images/screen_6.jpg)
 
 
 ## Оновлення певної сутності по id (PUT запит)
 ### Запит
-![screen_7](./images/screen_7.png)
+![screen_7](./images/screen_7.jpg)
 
 ### Результат
-![screen_8](./images/screen_8.png)
+![screen_8](./images/screen_8.jpg)
 
 
 ## Видалення певної сутності по id (DELETE запит)
 ### Запит і результат
-![screen_9](./images/screen_9.png)
+![screen_9](./images/screen_9.jpg)
 
 
 ## Спроба видалити певної сутності по id якого не існує
 ### Запит і результат
-![screen_10](./images/screen_10.png)
+![screen_10](./images/screen_10.jpg)
 
 
 ## Спроба оновлення певної сутності по id якого не існує
 ### Запит і результат
-![screen_11](./images/screen_11.png)
+![screen_11](./images/screen_11.jpg)
