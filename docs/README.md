@@ -3,14 +3,14 @@ home: true
 actionText: Розпочати →
 actionLink: /intro/
 
-footer: "ECL 2.0 Licensed | Copyright © [2023] [Antonenko Tymofii]"
+footer: "ECL 2.0 Licensed | Copyright © [2023] [Rabiichuk Daria]"
 ---
 
 
 **Виконав:** 
 
 *студент 2-го курсу, групи ІМ-21*
-<span padding-right:5em></span> **Тимофій АНТОНЕНКО** *antonenkotimofii@gmail.com* <a href="https://t.me/limon_chick7327" target="_blank"> Telegram </a>
+<span padding-right:5em></span> **Дар'я РАБІЙЧУК** *rabiychukdaria@gmail.com* <a href="https://t.me/darr4i" target="_blank"> Telegram </a>
 
 **Керівник**
 
